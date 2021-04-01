@@ -41,10 +41,12 @@ The use of AWS services generates costs in your account and if you run with the 
 
 Go to the main function and change
 
-`input_log_data = "s3://udacity-dend/log_data/*/*/*"`
+`input_log_data = "s3://udacity-dend/log_data/*/*/*"` 
+
 `input_song_data = "s3://udacity-dend/song-data/*/*/*/"`
 
 per:
 
 `input_log_data = "s3://udacity-dend/log_data/A/A/*"`
+
 `input_song_data = "s3://udacity-dend/song-data/2018/*/*/"`
